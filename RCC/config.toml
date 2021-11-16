@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://STACC.club.com"
+baseurl                 = ""
 DefaultContentLanguage  = "en"
 title                   = "STACC Club"
 theme                   = "hugo-future-imperfect-slim"
@@ -119,9 +119,9 @@ disableLanguages        = []
     weight            = 3
 
   [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
-    url               = "categories"
+    name              = "members"
+    identifier        = "members"
+    url               = "members"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
 
@@ -169,8 +169,8 @@ disableLanguages        = []
 
     [[Languages.fr.menu.main]]
       name              = "Catégories"
-      identifier        = "categories"
-      url               = "categories"
+      identifier        = "members"
+      url               = "members"
       pre               = "<i class='fas fa-sitemap'></i>"
       weight            = 5
 
@@ -211,8 +211,8 @@ disableLanguages        = []
 
     [[Languages.pl.menu.main]]
       name              = "Kategorie"
-      identifier        = "categories"
-      url               = "categories"
+      identifier        = "members"
+      url               = "members"
       pre               = "<i class='fas fa-sitemap'></i>"
       weight            = 5
 
@@ -253,8 +253,8 @@ disableLanguages        = []
 
     [[Languages.pt.menu.main]]
       name              = "Categorias"
-      identifier        = "categories"
-      url               = "categories"
+      identifier        = "members"
+      url               = "members"
       pre               = "<i class='fas fa-sitemap'></i>"
       weight            = 5
 
@@ -318,8 +318,8 @@ disableLanguages        = []
 
     [[Languages.nl.menu.main]]
       name              = "Categorieën"
-      identifier        = "categories"
-      url               = "categories"
+      identifier        = "members"
+      url               = "members"
       pre               = "<i class='fas fa-sitemap'></i>"
       weight            = 5
 
