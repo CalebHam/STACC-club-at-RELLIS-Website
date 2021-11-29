@@ -60,7 +60,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "content/img/main/STACCB.jpg  "
+      src                 = "RCC/resources/_gen/images/STACCB.jpg"
       shape               = "rectangle"
       width               = ""
       alt                 = "STACC"
@@ -112,16 +112,9 @@ disableLanguages        = []
     weight            = 2
 
   [[menu.main]]
-    name              = "Blog"
-    identifier        = "blog"
-    url               = "blog"
-    pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
-
-  [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
-    url               = "categories"
+    name              = "Members"
+    identifier        = "members"
+    url               = "members"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
 
