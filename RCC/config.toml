@@ -45,14 +45,14 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "STACC Club"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = true
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
+    header                = "STACC Club at RELLIS Campus"
     paragraph             = "STACC Club Discord Power by <a href='http://html5up.net'>HTML5 UP</a>."
     rssIntro              = true
     socialIntro           = true
@@ -60,13 +60,13 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
-      shape               = "circle"
+      src                 = "content/img/main/STACCB.jpg  "
+      shape               = "rectangle"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "STACC"
 
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
+    about               = "This is the official website for the STACC club at RELLIS Campus in Bryan TX."
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
