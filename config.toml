@@ -1,4 +1,4 @@
-baseURL = "https://STACC.website/"
+baseURL = "https://stacc-at-rellis.netlify.app/"
 languageCode = "en-us"
 title = "STACC"
 paginate = 3
