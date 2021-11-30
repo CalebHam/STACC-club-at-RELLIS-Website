@@ -48,7 +48,7 @@ img {
 }
 .home-nav li a {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border: 3px solid rgb(69, 219, 219);
+    border: 3px solid maroon;
     
     text-decoration: none;
     color: rgb(250, 246, 2);
