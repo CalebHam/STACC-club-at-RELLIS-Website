@@ -3,7 +3,7 @@ title = "Developers"
 date = 2020-06-26T15:57:20+05:30
 draft = false
 author = "Nick, Caleb"
-tags = ["Sales"]
+tags = ["About"]
 +++
 
 About Us
