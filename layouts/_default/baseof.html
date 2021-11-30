@@ -6,20 +6,28 @@
     <title>{{ .Title }}</title>
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/main.css">
+    <style>
+        body{background-color: dimgray;}
+        a{color:chartreuse;}
+        a:hover{color:chartreuse;}
+        div{color:rgb(255, 255, 255);}
+        h1 ,h2,h3{color:gold;}
+        
+    </style>
 </head>
 <body>
     <header id="site-header">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <div class="container">
-                <a class="navbar-brand" href="/">{{ .Site.Title }}</a>
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+            <div style = "background:maroon;" class="container">
+                <a style = "color:white;" class="navbar-brand" href="/">{{ .Site.Title }}</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-                  <div class="navbar-nav">
-                    <a class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
-                    <a class="nav-item nav-link" href="/about/">Members</a>
-                    <a class="nav-item nav-link" href="/posts/">Posts</a>
+                  <div   class="navbar-nav">
+                    <a style = "color:white;" class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
+                    <a style = "color:white;" class="nav-item nav-link" href="/about/">About</a>
+                    <a style = "color:white;" class="nav-item nav-link" href="/posts/">Posts</a>
                   </div>
                 </div>
             </div>
@@ -31,7 +39,7 @@
         </div>
     </main>
     <footer id="site-footer" class="bg-dark text-white pb-4 pt-4">
-        <div class="copyright text-center">
+        <div style = "background:maroon;" class="copyright text-center">
             &copy; 2021 {{ .Site.Title }}
         </div>
     </footer>
