@@ -2,7 +2,7 @@
 title = "About"
 date = 2020-06-27T10:50:43+05:30
 draft = false
-author = "Abhinav"
+author = "Nick, Caleb"
 tags = ["about"]
 +++
 
