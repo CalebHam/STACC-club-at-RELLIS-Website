@@ -1,6 +1,6 @@
-baseURL = "https://cntest.website/"
+baseURL = "https://STACC.website/"
 languageCode = "en-us"
-title = "My Hugo Site"
+title = "STACC"
 paginate = 3
 
 [params]
