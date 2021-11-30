@@ -1,9 +1,9 @@
 +++
-title = "17 movies with unbelievable scenes about good interview questions"
+title = "Board Game Night!"
 date = 2020-06-26T15:57:05+05:30
 draft = false
 author = "Nick"
-tags = ["Sales"]
+tags = ["Activity"]
 +++
 
 This is the first STACC meeting where we all played board games for the boardgame night!
