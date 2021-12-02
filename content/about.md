@@ -1,8 +1,6 @@
 +++
 title = "About Us and Members"
-date = 2020-06-27T10:50:43+05:30
 draft = false
-author = "Caleb"
 tags = ["Members"]
 +++
 
