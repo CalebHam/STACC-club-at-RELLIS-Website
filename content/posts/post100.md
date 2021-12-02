@@ -1,5 +1,5 @@
 +++
-title = "STACC Club first Event"
+title = "STACC Club Example"
 date = 2020-11-27T07:29:11+05:30
 draft = false
 author = "Caleb"
