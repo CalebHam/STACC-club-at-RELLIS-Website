@@ -5021,6 +5021,8 @@ input[type="button"].btn-block {
 .pagination {
   display: -ms-flexbox;
   display: flex;
+  color: maroon;
+  background-color: maroon;
   padding-left: 0;
   list-style: none;
   border-radius: 0.25rem;
