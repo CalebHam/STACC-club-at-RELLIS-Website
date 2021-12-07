@@ -10,3 +10,9 @@ tags = ["Event"]
 
 
 this is an example of how to post to website
+
+[some link](http://example.com)
+
+## Heading 2
+
+![First event](/images/image0.jpg)

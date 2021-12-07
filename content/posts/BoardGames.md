@@ -6,11 +6,7 @@ author = "Nick"
 tags = ["Activity"]
 +++
 
-This is the first STACC meeting where we all played board games for the boardgame night!
+This is the first STACC meeting where we all played Uno for our card game night!
 
-[some link](http://example.com)
-
-## Heading 2
-
-![First event](/images/image0.jpg)
+![First event](/images/UNO.jpg)
 
