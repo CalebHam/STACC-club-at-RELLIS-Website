@@ -18,7 +18,7 @@
 <body>
     <header id="site-header">
         <nav class="navbar navbar-expand-lg navbar-light bg-dark">
-            <div style = "background:maroon;" class="container">
+            <div style = "background:maroon; background-size:cover;" class="container">
                 <a style = "color:white;" class="navbar-brand" href="/">{{ .Site.Title }}</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
@@ -39,8 +39,8 @@
             {{ block "main" . }}{{ end }}
         </div>
     </main>
-    <footer id="site-footer" class="bg-dark text-white pb-4 pt-4">
-        <div style = "background:maroon;" class="copyright text-center">
+    <footer id="site-footer" class="background:maroon text-white pb-4 pt-4">
+        <div style = "background:maroon; position: bottom;"  class="copyright text-center">
             &copy; 2021 {{ .Site.Title }}
         </div>
     </footer>

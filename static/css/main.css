@@ -69,3 +69,7 @@ h5{
     margin:auto;
     padding: .5rem;
 }
+
+.site-footer{
+    position: absolute;
+}
