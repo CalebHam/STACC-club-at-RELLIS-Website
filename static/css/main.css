@@ -60,6 +60,7 @@ h5{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 3px solid rgb(41, 41, 41);
     background-color: maroon;
+    width:max-content;
     text-decoration: none;
     color: rgb(250, 246, 2);
     position: center;
