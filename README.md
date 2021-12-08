@@ -1,2 +1,3 @@
 # RELLIS-Computing-Club
-This Repository will be where the RELLIS Computing Clubs website is stored.
+This Repository will be where the STACC - Student Technologies and Computing Club - Website is stored and made, you can view the website here.
+https://stacc-at-rellis.netlify.app/
