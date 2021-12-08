@@ -1,6 +1,6 @@
 +++
 title = "Last Meeting of 2021 Fall Semester"
-date = 2020-06-26T15:57:05+05:30
+date = 2021-12-01
 draft = false
 author = "Caleb, Nick"
 tags = ["Activity"]

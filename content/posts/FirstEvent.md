@@ -1,6 +1,6 @@
 +++
 title = "STACC Club first Event"
-date = 2020-11-27T07:29:11+05:30
+date = 2021-10-10
 draft = false
 author = "Caleb"
 tags = ["Event"]

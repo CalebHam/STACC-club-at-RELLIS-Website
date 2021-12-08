@@ -21,5 +21,3 @@ I am helping develop the website for the STACC club. I am currently an offcier o
 ## Alumni
 
 ##### Tony Pham - Founding President
-
-[some link](http://example.com) 

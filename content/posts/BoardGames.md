@@ -1,6 +1,6 @@
 +++
 title = "Board Game Night!"
-date = 2020-11-27T07:29:11+05:30
+date = 2021-10-18
 draft = false
 author = "Nick"
 tags = ["Activity"]
