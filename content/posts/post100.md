@@ -1,7 +1,7 @@
 +++
 title = "STACC Club Example"
 date = 2021-12-30
-draft = false
+draft = true
 author = "Caleb"
 tags = ["Event"]
 +++
